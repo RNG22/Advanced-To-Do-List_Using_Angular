@@ -1,4 +1,4 @@
-*.html linguist-detectable=truue
+*.html linguist-detectable=false
 *.Angular linguist-detectable=true
 *.css linguist-detectable=true
 *.bootstrap linguist-detectable=true
