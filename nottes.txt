@@ -1,0 +1,8 @@
+//1.create ui and css 
+//2.in app.ts file
+create taskobj taskarray and initialize in constructor,
+create task class inside that create keys of taskobj object created in app class ,
+initialize the keys in the constructor
+//3.create createtask function 
+inside push task in task array and in 
+localstorage setitem taskobject by stringify
