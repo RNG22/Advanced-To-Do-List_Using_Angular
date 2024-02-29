@@ -1,3 +1,4 @@
  static/* linguist-vendored
  docs/* linguist-documentation
  *.rb linguist-language=Typescript 
+*.html linguist-detectable=false
