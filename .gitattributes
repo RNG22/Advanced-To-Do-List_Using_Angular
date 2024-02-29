@@ -1,4 +1,3 @@
-*.Angular linguist-detectable=true
-*.bootstrap linguist-detectable=true
-*.html linguist-detectable=true
-*.css linguist-detectable=true
+ static/* linguist-vendored
+ docs/* linguist-documentation
+ *.rb linguist-language=Typescript
